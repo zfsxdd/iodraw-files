@@ -100,13 +100,13 @@
           <mxGeometry x="530" y="1440" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-6" value="频率映射&#xa;时间对齐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="742" y="1379" width="124" height="48" as="geometry" />
+          <mxGeometry x="680" y="1378.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-8" value="生成刺激序列&#xa;电流映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1380" width="156" height="48" as="geometry" />
+          <mxGeometry x="828" y="1379.5" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-10" value="输出设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1380" width="124" height="48" as="geometry" />
+          <mxGeometry x="1008" y="1379.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_vpp1QcUxHHk1PPLnSLq-1" target="_vpp1QcUxHHk1PPLnSLq-2">
           <mxGeometry relative="1" as="geometry">
@@ -121,13 +121,19 @@
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_vpp1QcUxHHk1PPLnSLq-6" target="_vpp1QcUxHHk1PPLnSLq-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="916" y="1403.4800000000002" as="targetPoint" />
+            <mxPoint x="854" y="1402.9800000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_vpp1QcUxHHk1PPLnSLq-8" target="_vpp1QcUxHHk1PPLnSLq-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1126" y="1404.48" as="targetPoint" />
+            <mxPoint x="1064" y="1403.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vpp1QcUxHHk1PPLnSLq-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1400" as="sourcePoint" />
+            <mxPoint x="600" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

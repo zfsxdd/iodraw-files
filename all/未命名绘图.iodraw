@@ -112,7 +112,7 @@
           <mxGeometry x="530" y="1440" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-6" value="频率映射&#xa;时间对齐" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1378.5" width="124" height="48" as="geometry" />
+          <mxGeometry x="671" y="1375.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-8" value="生成刺激序列&#xa;电流映射" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="828" y="1379.5" width="156" height="48" as="geometry" />

@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vpp1QcUxHHk1PPLnSLq-1" value="原始信号输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_vpp1QcUxHHk1PPLnSLq-1" value="原始信号输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="212" y="1280" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-2" value="预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">

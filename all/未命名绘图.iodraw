@@ -87,7 +87,7 @@
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-1" value="原始信号输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="212" y="1280" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="_vpp1QcUxHHk1PPLnSLq-2" value="预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_vpp1QcUxHHk1PPLnSLq-2" value="预处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="236" y="1379" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_vpp1QcUxHHk1PPLnSLq-3" target="_vpp1QcUxHHk1PPLnSLq-4">

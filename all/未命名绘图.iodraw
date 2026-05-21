@@ -37,8 +37,8 @@
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-8" value="生成刺激序列&#xa;电流映射" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="827" y="1360" width="156" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_vpp1QcUxHHk1PPLnSLq-10" value="输出设备" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1008" y="1378.5" width="124" height="48" as="geometry" />
+        <mxCell id="_vpp1QcUxHHk1PPLnSLq-10" value="输出设备" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1008" y="1375.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_vpp1QcUxHHk1PPLnSLq-1" target="_vpp1QcUxHHk1PPLnSLq-2">
           <mxGeometry relative="1" as="geometry">

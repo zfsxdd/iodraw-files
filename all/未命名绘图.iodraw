@@ -1,89 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="a1EGOEAQMH3d0JmNOMK8">
-    <mxGraphModel dx="1427" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="-45" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="273" y="20" width="55" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-2" value="S100: 系统初始化及信息登记&#xa;&#39;场所端登记网络/位置; 用户端录入画像/范围&#39;" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="174" y="103" width="255" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-3" value="S200: 服务匹配与寻址预通知&#xa;&#39;云端匹配场所; 场所端接收画像与ETA&#39;" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="173" y="272" width="256" height="101" as="geometry" />
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-4" value="S300: 实时导航与通信调度&#xa;&#39;语音指引; 自动切换Wi-Fi/蜂窝网络&#39;" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="174" y="423" width="253" height="101" as="geometry" />
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-5" value="是否触发&#xa;SOS按键?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="236" y="575" width="131" height="131" as="geometry" />
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-6" value="S400: 到达判定与持续通知&#xa;&#39;跨入内圈切换通知状态; 场所端弹窗提醒&#39;" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="24" y="778" width="248" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-7" value="S500: 服务对接与闭环收敛&#xa;&#39;场所端点击确认; 设备播报并返回初始状态&#39;" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="920" width="256" height="101" as="geometry" />
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-8" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="273" y="1080" width="55" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-9" value="S600: 紧急状态就近插队响应&#xa;&#39;锁定蜂窝网; 云端就近派单/通知联系人&#39;" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="326" y="911" width="256" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="P0JFi_u_W8UfDDOpYeyP-1" target="P0JFi_u_W8UfDDOpYeyP-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="P0JFi_u_W8UfDDOpYeyP-2" target="P0JFi_u_W8UfDDOpYeyP-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="P0JFi_u_W8UfDDOpYeyP-3" target="P0JFi_u_W8UfDDOpYeyP-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="P0JFi_u_W8UfDDOpYeyP-4" target="P0JFi_u_W8UfDDOpYeyP-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-14" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="P0JFi_u_W8UfDDOpYeyP-5" target="P0JFi_u_W8UfDDOpYeyP-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="148" y="741" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="P0JFi_u_W8UfDDOpYeyP-6" target="P0JFi_u_W8UfDDOpYeyP-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.01;entryY=0.28;rounded=0;" parent="1" source="P0JFi_u_W8UfDDOpYeyP-7" target="P0JFi_u_W8UfDDOpYeyP-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="148" y="1055" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-17" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" parent="1" source="P0JFi_u_W8UfDDOpYeyP-5" target="P0JFi_u_W8UfDDOpYeyP-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="454" y="741" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P0JFi_u_W8UfDDOpYeyP-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1.01;entryY=0.28;rounded=0;" parent="1" source="P0JFi_u_W8UfDDOpYeyP-9" target="P0JFi_u_W8UfDDOpYeyP-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="454" y="1055" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_vpp1QcUxHHk1PPLnSLq-1" value="原始信号输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="224" y="1280" width="156" height="48" as="geometry" />
         </mxCell>

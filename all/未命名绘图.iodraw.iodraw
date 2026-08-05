@@ -74,14 +74,14 @@
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-12" value="商户状态：已接待" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-3" target="5NL4m_bLwImJtU3w4Tq4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="548" y="543" />
+              <mxPoint x="540" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-13" value="服务状态：已响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="262" y="599" />
+              <mxPoint x="270" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-8" value="更新目标场所" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-1">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-8" value="目标场所建链确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-1">
           <mxGeometry x="0.064" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="220" />

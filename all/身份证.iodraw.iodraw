@@ -64,19 +64,23 @@
             <mxPoint x="634.5" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-11" value="商户状态：准备中" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-3" target="5NL4m_bLwImJtU3w4Tq4-2">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-11" value="商户状态：准备中" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="330" />
-              <mxPoint x="548" y="489" />
+              <mxPoint x="535.19" y="260" />
+              <mxPoint x="543.19" y="419" />
             </Array>
+            <mxPoint x="629.69" y="260" as="sourcePoint" />
+            <mxPoint x="390.00034482758605" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-12" value="商户状态：已接待" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-3" target="5NL4m_bLwImJtU3w4Tq4-2">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-12" value="商户状态：已接待" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="370" />
+              <mxPoint x="540" y="290" />
             </Array>
+            <mxPoint x="634.5" y="290" as="sourcePoint" />
+            <mxPoint x="394.81034482758605" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-13" value="服务状态：已响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-1">

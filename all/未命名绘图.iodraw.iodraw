@@ -48,7 +48,7 @@
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-9" value="用户状态：正在靠近" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="250" />
+              <mxPoint x="640" y="250" />
             </Array>
             <mxPoint x="400.00034482758605" y="249.9999999999999" as="sourcePoint" />
             <mxPoint x="662.69" y="249.9999999999999" as="targetPoint" />

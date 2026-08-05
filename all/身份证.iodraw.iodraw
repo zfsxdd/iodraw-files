@@ -41,10 +41,10 @@
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-8" value="目标场所建链请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="0.0628" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="261.84" y="170" />
+              <mxPoint x="261.84" y="180" />
             </Array>
-            <mxPoint x="142.65034482758617" y="170" as="sourcePoint" />
-            <mxPoint x="397.34" y="170" as="targetPoint" />
+            <mxPoint x="142.65034482758617" y="180" as="sourcePoint" />
+            <mxPoint x="397.34" y="180" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

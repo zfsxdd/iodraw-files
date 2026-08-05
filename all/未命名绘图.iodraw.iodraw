@@ -63,12 +63,14 @@
             <mxPoint x="667.5" y="290.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-11" value="商户状态：准备中" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-3" target="5NL4m_bLwImJtU3w4Tq4-2">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-11" value="商户状态：准备中" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="330" />
-              <mxPoint x="548" y="489" />
+              <mxPoint x="610" y="274" />
+              <mxPoint x="548" y="433" />
             </Array>
+            <mxPoint x="667.5" y="329.9999999999999" as="sourcePoint" />
+            <mxPoint x="404.81034482758605" y="329.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-12" value="商户状态：已接待" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-3" target="5NL4m_bLwImJtU3w4Tq4-2">

@@ -22,17 +22,18 @@
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-6" value="主动上报位置（经过加密）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-1" target="5NL4m_bLwImJtU3w4Tq4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="259" y="129" />
+              <mxPoint x="259" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-7" value="服务状态：目标场所已确认" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-2">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.5096" y="30" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="150" />
               <mxPoint x="440" y="160" />
               <mxPoint x="420" y="170" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-8" value="目标场所建链请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-1" target="5NL4m_bLwImJtU3w4Tq4-2">

@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-7" value="服务状态：目标场所已确认" style="curved=1;endArrow=block;rounded=0;exitX=0.508;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-2">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-7" value="服务状态：目标场所已确认" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="150" />
@@ -45,7 +45,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-9" value="用户状态：正在靠近" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-3">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-9" value="用户状态：正在靠近" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="250" />

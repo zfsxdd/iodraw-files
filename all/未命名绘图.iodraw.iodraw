@@ -26,10 +26,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-7" value="服务状态：目标场所已确认" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-2">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-7" value="服务状态：目标场所已确认" style="curved=1;endArrow=block;rounded=0;exitX=0.508;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="456" y="185" />
+              <mxPoint x="460" y="140" />
               <mxPoint x="456" y="215" />
             </Array>
           </mxGeometry>

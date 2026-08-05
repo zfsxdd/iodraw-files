@@ -51,16 +51,16 @@
               <mxPoint x="640" y="250" />
             </Array>
             <mxPoint x="400.00034482758605" y="249.9999999999999" as="sourcePoint" />
-            <mxPoint x="662.69" y="249.9999999999999" as="targetPoint" />
+            <mxPoint x="630" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-10" value="服务信息：身份与服务需求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-10" value="服务信息：身份与服务需求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="545" y="290" />
             </Array>
             <mxPoint x="404.81034482758605" y="290.0000000000001" as="sourcePoint" />
-            <mxPoint x="667.5" y="290.0000000000001" as="targetPoint" />
+            <mxPoint x="630" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-11" value="商户状态：准备中" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-3" target="5NL4m_bLwImJtU3w4Tq4-2">

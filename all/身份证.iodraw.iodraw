@@ -48,20 +48,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-9" value="用户状态：正在靠近" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.571;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-3">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-9" value="用户状态：正在靠近" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.571;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="400.00034482758605" y="249.9999999999999" as="sourcePoint" />
-            <mxPoint x="630" y="250" as="targetPoint" />
+            <mxPoint x="390.00034482758605" y="200.0020689655172" as="sourcePoint" />
+            <mxPoint x="635.1600000000001" y="200.20999999999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NL4m_bLwImJtU3w4Tq4-10" value="服务信息：身份与服务需求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-2" target="5NL4m_bLwImJtU3w4Tq4-3">
+        <mxCell id="5NL4m_bLwImJtU3w4Tq4-10" value="服务信息：身份与服务需求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="545" y="290" />
+              <mxPoint x="545" y="230" />
             </Array>
-            <mxPoint x="404.81034482758605" y="290.0000000000001" as="sourcePoint" />
-            <mxPoint x="630" y="290" as="targetPoint" />
+            <mxPoint x="394.81034482758605" y="230" as="sourcePoint" />
+            <mxPoint x="634.5" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-11" value="商户状态：准备中" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="5NL4m_bLwImJtU3w4Tq4-3" target="5NL4m_bLwImJtU3w4Tq4-2">

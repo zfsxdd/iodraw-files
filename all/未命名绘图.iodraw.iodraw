@@ -36,9 +36,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5NL4m_bLwImJtU3w4Tq4-8" value="更新目标场所" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
-          <mxGeometry x="0.1957" y="107" relative="1" as="geometry">
+          <mxGeometry x="0.1938" y="5" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="259.29" y="204.70999999999998" />
+              <mxPoint x="259" y="220" />
             </Array>
             <mxPoint x="95.21857142857145" y="204.70999999999998" as="sourcePoint" />
             <mxPoint x="404.79" y="204.70999999999998" as="targetPoint" />

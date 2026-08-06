@@ -20,10 +20,11 @@
           <mxGeometry x="25.301204819277107" width="254.6987951807229" height="9.80392156862745" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-6" value="主动上报位置（经过加密）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-1" target="b1PtkMTzyTULe5IrMQfh-2">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0012" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="100" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-7" value="服务状态：目标场所已确认" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">

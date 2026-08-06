@@ -14,7 +14,7 @@
           <mxGeometry x="600" y="50" width="70" height="250" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-4" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="134" y="110" width="546" height="70" as="geometry" />
+          <mxGeometry x="134" y="160" width="546" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-5" value="[可主动通过语音确定目标场所]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="b1PtkMTzyTULe5IrMQfh-4">
           <mxGeometry x="49.34" width="200.66" height="13.73" as="geometry" />
@@ -37,11 +37,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-9" value="用户状态：正在靠近" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.571;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-2">
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-9" value="用户状态：正在靠近" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.571;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="420" y="200" as="sourcePoint" />
-            <mxPoint x="635.1600000000001" y="200.20999999999992" as="targetPoint" />
+            <mxPoint x="394.92857142857144" y="250.00285714285712" as="sourcePoint" />
+            <mxPoint x="635.1600000000001" y="250.06999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-10" value="服务信息：身份与服务需求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">

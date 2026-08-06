@@ -19,11 +19,13 @@
         <mxCell id="b1PtkMTzyTULe5IrMQfh-5" value="[可主动通过语音确定目标场所]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="b1PtkMTzyTULe5IrMQfh-4">
           <mxGeometry x="49.34" width="200.66" height="13.73" as="geometry" />
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-6" value="主动上报位置（经过TLS 1.3加密）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-1" target="b1PtkMTzyTULe5IrMQfh-2">
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-6" value="主动上报位置（经过TLS 1.3加密）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0012" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="259" y="100" />
+              <mxPoint x="259" y="105" />
             </Array>
+            <mxPoint x="159.92857142857144" y="105" as="sourcePoint" />
+            <mxPoint x="394.5" y="105" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -72,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-16" value="目标场所接收用户画像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="216" width="130" height="20" as="geometry" />
+          <mxGeometry x="450" y="212" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-17" value="通过HMM模型传输目的地预测结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.571;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.0015" relative="1" as="geometry">

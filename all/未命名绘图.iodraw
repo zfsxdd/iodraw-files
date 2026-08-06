@@ -74,13 +74,13 @@
             <mxPoint x="410" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-13" value="服务状态：已响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-2" target="b1PtkMTzyTULe5IrMQfh-1">
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-13" value="服务状态：已响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="272.84" y="310" />
+              <mxPoint x="272.84" y="280" />
             </Array>
-            <mxPoint x="370" y="310" as="sourcePoint" />
-            <mxPoint x="142.65034482758617" y="310" as="targetPoint" />
+            <mxPoint x="394.5" y="280" as="sourcePoint" />
+            <mxPoint x="159.92857142857144" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -16,7 +16,7 @@
         <mxCell id="b1PtkMTzyTULe5IrMQfh-4" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
           <mxGeometry x="130" y="175" width="546" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-5" value="[可主动通过语音确定目标场所]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="b1PtkMTzyTULe5IrMQfh-4">
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-5" value="[可主动通过语音确定目标场所]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="b1PtkMTzyTULe5IrMQfh-4">
           <mxGeometry x="49.34" width="200.66" height="13.73" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-6" value="主动上报位置（经过TLS 1.3加密）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">

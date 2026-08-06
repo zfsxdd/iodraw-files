@@ -47,16 +47,16 @@
         <mxCell id="b1PtkMTzyTULe5IrMQfh-10" value="服务信息：身份与服务需求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="545" y="230" />
+              <mxPoint x="545" y="270" />
             </Array>
-            <mxPoint x="394.81034482758605" y="230" as="sourcePoint" />
-            <mxPoint x="634.5" y="230" as="targetPoint" />
+            <mxPoint x="394.81034482758605" y="270" as="sourcePoint" />
+            <mxPoint x="634.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-11" value="商户状态：服务已就绪" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" target="b1PtkMTzyTULe5IrMQfh-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="535.19" y="260" />
+              <mxPoint x="530" y="290" />
               <mxPoint x="543.19" y="419" />
             </Array>
             <mxPoint x="629.69" y="260" as="sourcePoint" />

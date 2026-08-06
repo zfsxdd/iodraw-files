@@ -78,8 +78,8 @@
             <mxPoint x="634.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-16" value="目标场所接收用户信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="130" height="20" as="geometry" />
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-16" value="目标场所接收用户画像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

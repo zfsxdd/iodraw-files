@@ -14,7 +14,7 @@
           <mxGeometry x="600" y="50" width="70" height="250" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-4" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="280" height="50" as="geometry" />
+          <mxGeometry x="134" y="110" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-5" value="[可主动通过语音确定目标场所]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="b1PtkMTzyTULe5IrMQfh-4">
           <mxGeometry x="25.301204819277107" width="254.6987951807229" height="9.80392156862745" as="geometry" />
@@ -27,13 +27,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-8" value="目标场所建链请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-1">
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-8" value="目标场所建链请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="0.0628" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="261.84" y="180" />
+              <mxPoint x="261.84" y="140" />
             </Array>
-            <mxPoint x="142.65034482758617" y="180" as="sourcePoint" />
-            <mxPoint x="397.34" y="180" as="targetPoint" />
+            <mxPoint x="159.92857142857144" y="140" as="sourcePoint" />
+            <mxPoint x="397.34" y="140" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

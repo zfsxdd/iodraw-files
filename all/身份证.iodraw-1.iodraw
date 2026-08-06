@@ -67,8 +67,8 @@
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="395.2222222222223" y="236" as="sourcePoint" />
-            <mxPoint x="634.5" y="236" as="targetPoint" />
+            <mxPoint x="395.2222222222223" y="232" as="sourcePoint" />
+            <mxPoint x="634.5" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-16" value="目标场所接收用户画像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

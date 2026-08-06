@@ -27,18 +27,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-7" value="服务状态：目标场所已确认" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.4226" y="-9" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="436.19" y="110" />
-              <mxPoint x="436.19" y="120" />
-              <mxPoint x="416.19" y="130" />
-            </Array>
-            <mxPoint x="391.00034482758605" y="110" as="sourcePoint" />
-            <mxPoint x="391.00034482758605" y="130" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-8" value="目标场所建链请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-1">
           <mxGeometry x="0.0628" relative="1" as="geometry">
             <Array as="points">

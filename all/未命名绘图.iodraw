@@ -74,16 +74,6 @@
             <mxPoint x="410" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-12" value="商户状态：已接待" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
-          <mxGeometry x="0.0013" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="540" y="290" />
-            </Array>
-            <mxPoint x="634.5" y="290" as="sourcePoint" />
-            <mxPoint x="394.81034482758605" y="290" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-13" value="服务状态：已响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-2" target="b1PtkMTzyTULe5IrMQfh-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">

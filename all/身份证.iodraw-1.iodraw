@@ -1,0 +1,89 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="1ljnAfjIUitJrzZFUQHH">
+    <mxGraphModel dx="600" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-1" value="用户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="60" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-2" value="云端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="70" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-3" value="商户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="70" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-4" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-5" value="[可主动通过语音确定目标场所]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="b1PtkMTzyTULe5IrMQfh-4">
+          <mxGeometry x="25.301204819277107" width="254.6987951807229" height="9.80392156862745" as="geometry" />
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-6" value="主动上报位置（经过加密）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-1" target="b1PtkMTzyTULe5IrMQfh-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="259" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-7" value="服务状态：目标场所已确认" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.4226" y="-9" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="436.19" y="110" />
+              <mxPoint x="436.19" y="120" />
+              <mxPoint x="416.19" y="130" />
+            </Array>
+            <mxPoint x="391.00034482758605" y="110" as="sourcePoint" />
+            <mxPoint x="391.00034482758605" y="130" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-8" value="目标场所建链请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-1">
+          <mxGeometry x="0.0628" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="261.84" y="180" />
+            </Array>
+            <mxPoint x="142.65034482758617" y="180" as="sourcePoint" />
+            <mxPoint x="397.34" y="180" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-9" value="用户状态：正在靠近" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.571;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="420" y="200" as="sourcePoint" />
+            <mxPoint x="635.1600000000001" y="200.20999999999992" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-10" value="服务信息：身份与服务需求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="230" />
+            </Array>
+            <mxPoint x="394.81034482758605" y="230" as="sourcePoint" />
+            <mxPoint x="634.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-11" value="商户状态：服务已就绪" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" target="b1PtkMTzyTULe5IrMQfh-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535.19" y="260" />
+              <mxPoint x="543.19" y="419" />
+            </Array>
+            <mxPoint x="629.69" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-13" value="服务状态：需求已响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="272.84" y="280" />
+            </Array>
+            <mxPoint x="394.5" y="280" as="sourcePoint" />
+            <mxPoint x="159.92857142857144" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

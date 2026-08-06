@@ -72,14 +72,14 @@
             <mxPoint x="159.92857142857144" y="299.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="b1PtkMTzyTULe5IrMQfh-15">
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="395.2222222222223" y="220" as="sourcePoint" />
             <mxPoint x="634.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1PtkMTzyTULe5IrMQfh-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="604.5" y="205" width="60" height="30" as="geometry" />
+        <mxCell id="b1PtkMTzyTULe5IrMQfh-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

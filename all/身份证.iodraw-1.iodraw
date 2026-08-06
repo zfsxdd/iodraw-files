@@ -14,10 +14,10 @@
           <mxGeometry x="600" y="50" width="70" height="250" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-4" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="134" y="110" width="280" height="50" as="geometry" />
+          <mxGeometry x="134" y="110" width="546" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-5" value="[可主动通过语音确定目标场所]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="b1PtkMTzyTULe5IrMQfh-4">
-          <mxGeometry x="25.301204819277107" width="254.6987951807229" height="9.80392156862745" as="geometry" />
+          <mxGeometry x="49.33734939759036" width="496.66265060240966" height="9.80392156862745" as="geometry" />
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-6" value="主动上报位置（经过TLS 1.3加密）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="b1PtkMTzyTULe5IrMQfh-1" target="b1PtkMTzyTULe5IrMQfh-2">
           <mxGeometry x="-0.0012" relative="1" as="geometry">

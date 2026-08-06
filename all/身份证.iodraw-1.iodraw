@@ -30,10 +30,10 @@
         <mxCell id="b1PtkMTzyTULe5IrMQfh-8" value="目标场所建链请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="0.0628" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="261.84" y="194.71" />
+              <mxPoint x="261.84" y="244.71" />
             </Array>
-            <mxPoint x="159.92857142857144" y="194.71" as="sourcePoint" />
-            <mxPoint x="397.34" y="194.71" as="targetPoint" />
+            <mxPoint x="159.92857142857144" y="244.71" as="sourcePoint" />
+            <mxPoint x="397.34" y="244.71" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -74,8 +74,8 @@
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="395.2222222222223" y="220" as="sourcePoint" />
-            <mxPoint x="634.5" y="220" as="targetPoint" />
+            <mxPoint x="395.2222222222223" y="270" as="sourcePoint" />
+            <mxPoint x="634.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b1PtkMTzyTULe5IrMQfh-16" value="目标场所接收用户画像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
